@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "default"
 
-baseurl: "https://its100percentreal.github.io/gradualturtle.io"
+# baseurl: "https://its100percentreal.github.io/gradualturtle.io"
 # Build settings
 
 # Exclude from processing.

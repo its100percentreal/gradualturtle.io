@@ -1,10 +1,10 @@
 - name: Home
-  link: {{ base.url }}/
+  link: /
 - name: CV
-  link: {{ base.url }}/cv.html
+  link: /cv.html
 - name: Research
-  link: {{ base.url }}/research.html
+  link: /research.html
 - name: Fieldwork
-  link: {{ base.url }}/fieldwork.html
+  link: /fieldwork.html
 - name: Outreach
-  link: {{ base.url }}/outreach.html
+  link: /outreach.html
